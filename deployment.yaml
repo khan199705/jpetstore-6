@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: petshop
-        image: thaheerkha/mega-pro-cd:latest
+        image: thaheerkhan/mega-pro-cd:latest
         ports:
         - containerPort: 8080
         imagePullPolicy: Always
